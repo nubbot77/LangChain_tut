@@ -4,3 +4,11 @@ numpy
 pandas
 streamlit
 langchain-groq
+python-dotenv
+chromadb
+tiktoken
+sentence-transformers
+bs4
+langchainhub
+wikipedia
+langchain-core
