@@ -20,5 +20,7 @@ while True:
     chat_history.append(human_message)
 
     response = model.retrive(chat_history)
-    print("AI Response:", response)
+    print("_______________XXXXXXXX_____________\n\n")
+    print("AI Response:\n\n", response)
+    print("_______________XXXXXXXX_____________\n\n")
     chat_history.append(AIMessage(content=response))

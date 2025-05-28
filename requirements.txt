@@ -12,3 +12,4 @@ bs4
 langchainhub
 wikipedia
 langchain-core
+firestore
