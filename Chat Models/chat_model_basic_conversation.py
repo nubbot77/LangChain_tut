@@ -16,9 +16,9 @@ message = [
     SystemMessage(content="You are a helpfull assistant"),
     HumanMessage(content="What is capital of kerala?"),
 ]
-result = model.invoke(message)
+result = model.retrive(message)
 
 # print("Full result:\n",result)
 print("_______________XXXXXXXX_____________")
-print("Content only:\n",result.content)
+print("Content only:\n",result)
 print("_______________XXXXXXXX_____________")

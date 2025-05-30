@@ -9,5 +9,5 @@ result = model.retrive("What is capital of kerala?")
 
 print("Full result:\n",result)
 print("_______________XXXXXXXX_____________")
-print("Content only:\n",result.content)
+print("Content only:\n",result)
 print("_______________XXXXXXXX_____________")

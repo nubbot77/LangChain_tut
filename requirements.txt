@@ -13,3 +13,4 @@ langchainhub
 wikipedia
 langchain-core
 firestore
+flask
